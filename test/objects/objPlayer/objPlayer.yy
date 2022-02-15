@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprDebug",
-    "path": "sprites/sprDebug/sprDebug.yy",
+    "name": "Whatever",
+    "path": "sprites/Whatever/Whatever.yy",
   },
   "solid": false,
   "visible": true,
